@@ -1,7 +1,7 @@
 ### Hi there 👋
-[![Stats](https://github-readme-stats.vercel.app/api?username=GowthamGottimukkala&hide=stars&theme=dark&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=GowthamGottimukkala&hide=stars&theme=dark&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GowthamGottimukkala&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GowthamGottimukkala&layout=compact&theme=dark)
 
 <!--
 **GowthamGottimukkala/GowthamGottimukkala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
